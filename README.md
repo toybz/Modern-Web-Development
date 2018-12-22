@@ -1,8 +1,8 @@
 # --- Modern-Web-Development
 
 # Web Platform
-The DOM
-Progressive Web Apps
+* The DOM
+* Progressive Web Apps
 Service Workers
 XHR
 Fetch API
